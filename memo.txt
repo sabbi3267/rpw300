@@ -1,0 +1,3 @@
+How engineers and manager communicate:
+In this video we can see that there is definitely a gap in communication with the engineer and the decision maker. The engineer is more thorough on the details where the manager is looking at this particular presentation for the first time from the engineer. So the decision maker is only able get the overview of the presentation.
+So at the end he ask the big question that would it be possible to skip the implementation of that 
